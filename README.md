@@ -4,7 +4,6 @@
 <!--- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...  --->
 - 📫 How to reach me ...
-  + Twitter:<a href="https://twitter.com/Slimeding">Slimeding</a>
   + Email:                     aslimeding@gmail.com
 
 <!---
